@@ -23,4 +23,3 @@ An AI-powered airline customer support assistant that can understand user querie
 - `Airline Cutomer support assistant.ipynb` – Main implementation
 - `prices.db` – Airline pricing database
 - `response.wav` – Sample voice response
-![Uploading image.png…]()
